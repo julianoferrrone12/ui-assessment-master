@@ -17,13 +17,13 @@ From the design was implemented in react.
 
 ## Responsiveness
 
-### Was tested for the following devices and the viewport's natural adaptations
+Was tested for the following devices and the viewport's natural adaptations
 
 ![tested devices](testedDevices.png)
 
 ## Accessibility and performance 
 
-### [Lighthouse]((https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-br)) was used to test the application's accessibility and performance
+[Lighthouse]((https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-br)) was used to test the application's accessibility and performance
 
 ![LightHouse Report](report.png)
 
