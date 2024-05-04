@@ -31,7 +31,7 @@ Was tested for the following devices and the viewport's natural adaptations
 [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-br), an open-source, automated tool for improving the performance, quality, and correctness of your web apps, was used to test the application's accessibility and performance
 
 <p align="center">
-  <img src="./report" >
+  <img src="./report.png" >
 </p>
 
 ## Setup
