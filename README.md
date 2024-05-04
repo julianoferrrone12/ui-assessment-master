@@ -2,7 +2,10 @@
 
 From the design was implemented in react.
 
-![account overview design](./design.png?raw=true)
+<p align="center">
+  <img src="./design.png?raw=true" alt="account overview design">
+</p>
+
 
 ## The application fulfils the following requirements
 - The layout should grow/shrink sensibly with the viewport
