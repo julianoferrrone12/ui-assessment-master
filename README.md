@@ -22,13 +22,17 @@ From the design was implemented in react.
 
 Was tested for the following devices and the viewport's natural adaptations
 
-![tested devices](testedDevices.png)
+<p align="center">
+  <img src="./testedDevices.png" >
+</p>
 
 ## Accessibility and performance 
 
 [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=pt-br), an open-source, automated tool for improving the performance, quality, and correctness of your web apps, was used to test the application's accessibility and performance
 
-![LightHouse Report](report.png)
+<p align="center">
+  <img src="./report" >
+</p>
 
 ## Setup
 1. Run `npm install` to install required dependencies
