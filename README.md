@@ -1,6 +1,6 @@
 # Feefo: UI Technical Assessment
 
-From the design was implemented in react `design.png` .
+From the design was implemented in react.
 
 ![account overview design](./design.png?raw=true)
 
