@@ -1,11 +1,16 @@
 # Feefo: UI Technical Assessment
 
-From the design was implemented in react.
+From the design ...
 
 <p align="center">
   <img src="./design.png?raw=true" alt="account overview design">
 </p>
 
+Was implemented in react: 
+
+<p align="center">
+  <img src="https://github.com/julianoferrrone12/ui-assessment-master/assets/62573072/462b7d7e-fdd3-4145-933d-180153878cf9">
+</p>
 
 ## The application fulfils the following requirements
 - The layout should grow/shrink sensibly with the viewport
